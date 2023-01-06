@@ -1,0 +1,11 @@
+@import './base.css';
+
+#app {
+  max-width: 1000px;
+  margin: auto;
+  box-sizing: border-box;
+  display: grid;
+  place-content: center;
+  background-color: rgba(232, 245, 233, 1);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
