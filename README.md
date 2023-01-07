@@ -1,14 +1,8 @@
-# /
+# Profile card
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+![Scre](https://user-images.githubusercontent.com/90189815/211170435-cceb08ca-348b-4fa6-a887-73376d295484.png)
+https://your-tribe-for-life-profile-card-pi.vercel.app/
+#  Vue 3 in Vite.
 
 ## Project Setup
 
