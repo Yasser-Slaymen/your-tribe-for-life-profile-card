@@ -2,7 +2,7 @@
 
 #app {
   max-width: 1000px;
-  margin: auto;
+  margin-top:2%;
   box-sizing: border-box;
   display: grid;
   place-content: center;
